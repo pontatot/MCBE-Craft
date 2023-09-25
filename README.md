@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there, MCBE Craft here
 
-20 yo french student, IT passionate
+21 yo french student, IT passionate
 
 ---
 
@@ -58,6 +58,6 @@
 
 ### 📫 Contact Me :
 
-- [<img src="https://logo-marque.com/wp-content/uploads/2020/11/Discord-Embleme.png" width="30px"/>@pontatot#6545](https://discordapp.com/users/630919091015909386)
+- [<img src="https://logo-marque.com/wp-content/uploads/2020/11/Discord-Embleme.png" width="30px"/>@pontatot](https://discordapp.com/users/630919091015909386)
 
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" width="20px"/> mcbe.craft0@gmail.com](mailto:mcbe.craft0@gmail.com?subject=Contact%20from%20Github&body=Hello%20MCBE%20Craft)
